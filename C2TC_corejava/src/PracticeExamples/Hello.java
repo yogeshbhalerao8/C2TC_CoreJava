@@ -1,4 +1,4 @@
-package Day1;
+package PracticeExamples;
 
 public class Hello {
 
