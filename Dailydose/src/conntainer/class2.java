@@ -1,8 +1,7 @@
 package conntainer;
 import java.util.Scanner;
-                    // Area of circle 
 public class class2 {
-
+//<--Area of circle -->
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter radius");
